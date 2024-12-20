@@ -1,7 +1,8 @@
 {
   "devDependencies": {
     "gh-pages": "^6.2.0"
-  
-
+  },
+  "dependencies": {
+    "react-typing-effect": "^2.0.5"
   }
 }
